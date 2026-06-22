@@ -1,4 +1,4 @@
-# ◈ ResearchMind — Bioluminescent Multi-Agent Research System
+# ◈ ResearchMind — Autonomous Multi-Agent Research System
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/framework-LangChain-green.svg)](https://github.com/langchain-ai/langchain)
