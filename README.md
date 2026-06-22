@@ -1,4 +1,4 @@
-# ◈ ResearchMind — Autonomous Multi-Agent Research System
+#  ResearchMind — Autonomous Multi-Agent Research System
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/) [![LangChain](https://img.shields.io/badge/framework-LangChain-green.svg)](https://github.com/langchain-ai/langchain) [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red.svg)](https://streamlit.io/) [![Model](https://img.shields.io/badge/LLM-Mistral--Medium-orange.svg)](https://mistral.ai/)
 **ResearchMind** is a production-grade, distributed-agent orchestration pipeline that automates the deep research process. By connecting four specialized AI nodes on a single trace, the system automatically transitions from a user query to web search, deep HTML content extraction, professional report generation, and automated critique evaluation.
 Featuring a bespoke, high-performance terminal UI themed with a bioluminescent design, ResearchMind illustrates how sequential LLM orchestration can replace manual, multi-tab information gathering with single-click sourced intelligence.
